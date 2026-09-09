@@ -1,0 +1,9 @@
+.badge.danger{color:#ff8493;border-color:#7a3340}
+.flood-assessment{background:linear-gradient(145deg,#291b25,#111c30);border-color:#5b3543}
+.warning-level{display:flex;justify-content:space-between;gap:10px;padding:11px 12px;margin-top:10px;border-radius:8px;border-left:3px solid}
+.warning-level strong{font-size:11px}.warning-level span{font-size:9px;color:var(--muted);text-align:right}
+.warning-level.critical{background:#ff5c7012;border-color:var(--red)}
+.warning-level.warning{background:#ffad3d12;border-color:var(--orange)}
+.warning-level.normal{background:#25d69b10;border-color:var(--green)}
+.assessment-note{font-size:10px;line-height:1.6;color:#aebfd1;margin:14px 0 0}
+.flood-depth{color:#ff9b77;font-weight:700}.reason{max-width:280px;overflow:hidden;text-overflow:ellipsis;color:#91a8bd}
